@@ -1,7 +1,5 @@
 # Projects
 
-[Click for Demo](https://alidarcan.github.io/Projects/)
-
 ## INFORMATION
 
 * This repo contains some recent projects I made.
