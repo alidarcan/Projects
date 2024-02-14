@@ -1,6 +1,4 @@
-# Projects
-
-[Click for Demo](https://alidarcan.github.io/Projects/)
+# WEB BOOTCAMP PROJECTS
 
 ## INFORMATION
 
@@ -12,7 +10,7 @@
 This repo contains:
 
 - [Mondrian](https://alidarcan.github.io/Projects/Mondrian)
-- [TinDog_V2](https://alidarcan.github.io/Projects/TinDog_V2)
+- [TinDog_v2](https://alidarcan.github.io/Projects/TinDog_v2)
 - [TinDog](https://alidarcan.github.io/tindog/)
 
 ## LICENCE
