@@ -27,9 +27,9 @@ let winTieLose = "";
 function newGame(selection) {
   let randomOpponent = heroes[Math.floor(Math.random() * 5)];
   p1CardDOM.innerHTML =
-    "<img class='img-fluid my-auto' src='/images/" + selection + ".png'>";
+    "<img class='img-fluid my-auto' src='./images/" + selection + ".png'>";
   p2CardDOM.innerHTML =
-    "<img class='img-fluid' src='/images/" + randomOpponent + ".png'>";
+    "<img class='img-fluid' src='./images/" + randomOpponent + ".png'>";
   if (selection === randomOpponent) {
     infoDOM.innerHTML = "It's a tie.";
     winTieLose = "t";
@@ -183,7 +183,7 @@ function resetCards() {
     <div class="flex-grow-1 d-flex justify-content-center align-items-center btn btn-outline-info fs-2" onclick=newGame(this.innerHTML.toLowerCase())>Scissors</div>
     <div class="flex-grow-1 d-flex justify-content-center align-items-center btn btn-outline-info fs-2" onclick=newGame(this.innerHTML.toLowerCase())>Lizard</div>
     <div style="border-radius: 0 0 5px 5px;" class="flex-grow-1 d-flex justify-content-center align-items-center btn btn-outline-info fs-2 border-bottom-0" onclick=newGame(this.innerHTML.toLowerCase())>Spock</div>`;
-  p2CardDOM.innerHTML = `<img class="img-fluid mx-auto my-auto" src="images/logo.jpg" alt="">`;
+  p2CardDOM.innerHTML = `<img class="img-fluid mx-auto my-auto" src="./images/logo.jpg" alt="">`;
   p1CardDOM.style.backgroundColor = "transparent";
   p2CardDOM.style.backgroundColor = "transparent";
 }
