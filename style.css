@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    color:#46203d;
+}
+
+body {
+    background: rgb(238, 174, 202);
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+}
+
+a{
+    text-decoration: none;
+    color: #46203d;
+    font-size: 1.5rem;
+}
+
+ul {
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    list-style: none;
+  }
