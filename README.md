@@ -1,5 +1,7 @@
 # WEB BOOTCAMP PROJECTS
 
+### [Recent Projects](https://alidarcan.github.io/Projects/)
+
 ## INFORMATION
 
 * This repo contains some recent projects I made.
