@@ -17,6 +17,7 @@ This repo contains:
 - [Dog Age Calculator](https://alidarcan.github.io/Projects/DogAgeCalculator/)
 - [Leap Year Calculator](https://alidarcan.github.io/Projects/LeapYearCalculator/)
 - [Love Calculator](https://alidarcan.github.io/Projects/LoveCalculator/)
+- [Who Rolls Better](https://alidarcan.github.io/Projects/WhoRollsBetter/)
 - [Web Developer](https://www.alidarcan.com/)
 
 ## LICENCE
